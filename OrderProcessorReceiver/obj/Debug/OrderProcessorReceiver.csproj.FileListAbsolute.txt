@@ -1,0 +1,10 @@
+C:\Projetos\OrderProcessor\OrderProcessorReceiver\bin\Debug\OrderProcessorReceiver.exe.config
+C:\Projetos\OrderProcessor\OrderProcessorReceiver\bin\Debug\OrderProcessorReceiver.exe
+C:\Projetos\OrderProcessor\OrderProcessorReceiver\bin\Debug\OrderProcessorReceiver.pdb
+C:\Projetos\OrderProcessor\OrderProcessorReceiver\bin\Debug\Order.dll
+C:\Projetos\OrderProcessor\OrderProcessorReceiver\bin\Debug\RabbitMQ.Client.dll
+C:\Projetos\OrderProcessor\OrderProcessorReceiver\bin\Debug\Order.pdb
+C:\Projetos\OrderProcessor\OrderProcessorReceiver\bin\Debug\RabbitMQ.Client.xml
+C:\Projetos\OrderProcessor\OrderProcessorReceiver\obj\Debug\OrderProcessorReceiver.csprojResolveAssemblyReference.cache
+C:\Projetos\OrderProcessor\OrderProcessorReceiver\obj\Debug\OrderProcessorReceiver.exe
+C:\Projetos\OrderProcessor\OrderProcessorReceiver\obj\Debug\OrderProcessorReceiver.pdb

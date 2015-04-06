@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderProcessorSender", "OrderProcessor\OrderProcessorSender.csproj", "{4D119574-3F8B-4B08-BAD0-0A8283384E07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderProcessorReceiver", "OrderProcessorReceiver\OrderProcessorReceiver.csproj", "{520BB580-1FE1-40DB-ACB5-B15FB1276ED4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Order", "Order\Order.csproj", "{B8DA4E99-EECA-4863-99B0-1AB6D9FB8395}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D119574-3F8B-4B08-BAD0-0A8283384E07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D119574-3F8B-4B08-BAD0-0A8283384E07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D119574-3F8B-4B08-BAD0-0A8283384E07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D119574-3F8B-4B08-BAD0-0A8283384E07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{520BB580-1FE1-40DB-ACB5-B15FB1276ED4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{520BB580-1FE1-40DB-ACB5-B15FB1276ED4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{520BB580-1FE1-40DB-ACB5-B15FB1276ED4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{520BB580-1FE1-40DB-ACB5-B15FB1276ED4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8DA4E99-EECA-4863-99B0-1AB6D9FB8395}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8DA4E99-EECA-4863-99B0-1AB6D9FB8395}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8DA4E99-EECA-4863-99B0-1AB6D9FB8395}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8DA4E99-EECA-4863-99B0-1AB6D9FB8395}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
