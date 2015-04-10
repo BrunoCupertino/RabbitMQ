@@ -1,2 +1,0 @@
-C:\Projetos\OrderProcessor\OrderProcessor\bin\Debug\OrderProcessor.exe.config
-C:\Projetos\OrderProcessor\OrderProcessor\bin\Debug\OrderProcessorClient.exe.config
